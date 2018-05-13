@@ -1,6 +1,2 @@
-Hello world!
-This is my first Git repository.
+I love you!
 
-
-I have pushed my first repository to Github.
-I am so happy!
